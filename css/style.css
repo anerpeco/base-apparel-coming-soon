@@ -294,7 +294,7 @@ body .hero {
 }
 @media only screen and (min-width: 90rem) {
   .hero__cta {
-    padding: 3.8125rem 10.3125rem 9.5rem;
+    padding: 3.8125rem 13.75rem 9.5rem 10.3125rem;
   }
 }
 .hero__cta p {
